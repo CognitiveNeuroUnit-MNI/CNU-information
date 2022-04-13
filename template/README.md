@@ -1,4 +1,4 @@
-Template to edit and update the desk assignment when trainees come and go.
+#Template to edit and update the desk assignment when trainees come and go.
 
 * This powerpoint cannot be viewed and edited from Github on the browser.
 
