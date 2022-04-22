@@ -38,4 +38,4 @@ A code is needed to enter 251. You probably know it already, otherwise ask a fel
 * Ask a fellow cognitive neroscientist for the code to open the safe.
 
 ## Desk Assignment
-Trainees can be assigned a working space in the 251 Area (extending to 257 and 254). Refer to the desk-assignment folder contained within this repository to view the current desk-assignment. Ask your PI.
+Trainees can be assigned a working space in the 251 Area (extending to 257 and 254). Refer to the desk-assignment folder contained within this repository to view the current desk-assignment. If you are a new trainee, make sure your name is communicated to the CNU space committee by your PI so that you are included in the desk-assignment round for the semester.
