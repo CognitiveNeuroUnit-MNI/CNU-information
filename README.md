@@ -11,11 +11,10 @@ This README file contains the most essential information to get you started in t
 
 ## How we stay in touch
 
-### Social Media
-#### Slack workspace : CNU Trainees
-Ask an elder trainee to send you the invite to join the Slack.
+### Slack workspace : CNU Trainees
+Ask an elder trainee to send you the invite link to join the Slack.
 
-#### CNU Facebook group
+### CNU Facebook group
 Cognitive Neuroscience Unit Trainees and Postdocs
 https://www.facebook.com/groups/270911003633101
 
